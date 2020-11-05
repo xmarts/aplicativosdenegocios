@@ -1,0 +1,4 @@
+[submodule "xmarts/series-purchase"]
+	path = xmarts/series-purchase
+	url = git@github.com:xmarts/series-purchase.git
+	branch = 13.0
