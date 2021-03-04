@@ -2,3 +2,6 @@
 	path = xmarts/series-purchase
 	url = git@github.com:xmarts/series-purchase.git
 	branch = 13.0
+[submodule "xmarts/x"]
+	path = xmarts/x
+	url = https://github.com/eserra01/x.git
